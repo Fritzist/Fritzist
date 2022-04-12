@@ -1,8 +1,8 @@
 # Fritzist
-Hello 
+
 <br>
 
-My experience
+**My experiences:**
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -16,3 +16,5 @@ My experience
 ![Fritzist Github Stats](https://github-readme-stats.vercel.app/api?username=Fritzist&theme=aura)
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fritzist&theme=aura)
+
+Hey I am a small german developer :)
