@@ -16,6 +16,4 @@ Hey I am a small german developer :)
 ## Stats
 ![Fritzist Github Stats](https://github-readme-stats.vercel.app/api?username=Fritzist&theme=aura)
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fritzist&theme=aura)
-
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fritzist&layout=compact&theme=aura)](https://github.com/Fritzist/github-readme-stats)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fritzist&theme=aura)                                                         [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fritzist&layout=compact&theme=aura)](https://github.com/Fritzist/github-readme-stats)
