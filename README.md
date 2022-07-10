@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Fritzist&label=Profile%20views&color=0e75b6&style=flat" alt="Fritzist" /> </p>
 
 # Fritzist
 Hey I am a small german developer :)
