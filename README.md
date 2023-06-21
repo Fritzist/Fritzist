@@ -1,6 +1,6 @@
 
 # Fritzist
-Hey I am a small german developer :)
+Hey I am a german developer 🔥🔥🔥 
 
 <br>
 
